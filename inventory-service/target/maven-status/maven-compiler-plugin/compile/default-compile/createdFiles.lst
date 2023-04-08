@@ -1,0 +1,7 @@
+com\misa\inventoryservice\model\Inventory.class
+com\misa\inventoryservice\InventoryServiceApplication.class
+com\misa\inventoryservice\dto\InventoryResponse.class
+com\misa\inventoryservice\service\InventoryService.class
+com\misa\inventoryservice\repository\InventoryRepository.class
+com\misa\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\misa\inventoryservice\controller\InventoryController.class

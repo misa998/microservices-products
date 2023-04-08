@@ -1,0 +1,10 @@
+com\misa\productservice\dto\ProductRequest.class
+com\misa\productservice\service\ProductService.class
+com\misa\productservice\dto\ProductResponse.class
+com\misa\productservice\ProductServiceApplication.class
+com\misa\productservice\model\Product$ProductBuilder.class
+com\misa\productservice\repository\ProductRepository.class
+com\misa\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\misa\productservice\controller\ProductController.class
+com\misa\productservice\model\Product.class
+com\misa\productservice\dto\ProductResponse$ProductResponseBuilder.class
